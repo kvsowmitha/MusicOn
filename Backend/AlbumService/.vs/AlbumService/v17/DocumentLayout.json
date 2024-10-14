@@ -1,0 +1,1201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RegisterDB/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\favoritemusicservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\services\\consumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\services\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBAlbum/True/SqlTable/dbo.Artists.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBAlbum/True/SqlTable/dbo.Albums.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\exceptions\\passwordmismatchexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68870B34-FB99-4F16-94AF-4B2D6ED84469}|..\\AuthenticationServiceTests\\AuthenticationServiceTests.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservicetests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\repository\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2356ED-8511-45AD-B60B-E50E535AAE5D}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\apigateway\\apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\exceptions\\invalidcredentialsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\exceptions\\databaseoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\albumservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:albumservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\repository\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:repository\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\repository\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:repository\\albumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\services\\albumsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:services\\albumsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\exceptions\\duplicatealbumexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:exceptions\\duplicatealbumexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\exceptions\\artistnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:exceptions\\artistnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\exceptions\\albumnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:exceptions\\albumnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\repository\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\repository\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\utility\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\services\\kafkasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\services\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\repository\\registerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\repository\\registerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\repository\\iregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE9CB7D-B848-4786-A73D-6ED3CBAD2F58}|..\\UserRegister\\UserRegister\\UserRegister.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\userregister\\userregister\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68870B34-FB99-4F16-94AF-4B2D6ED84469}|..\\AuthenticationServiceTests\\AuthenticationServiceTests.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservicetests\\authenticationservicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE04D47-BC9F-4FE2-BD89-EF3411C66918}|..\\AlbumService.Tests\\AlbumService.Tests.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice.tests\\albumsservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE04D47-BC9F-4FE2-BD89-EF3411C66918}|..\\AlbumService.Tests\\AlbumService.Tests.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice.tests\\albumservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\utility\\datetimeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\model\\recieveuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\model\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\model\\passwordresetconfirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\model\\logindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8075F55-B763-4218-A7BE-4B2CABBFCF85}|..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\authenticationservice\\authenticationservice\\model\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Logindb/True/SqlTable/dbo.LoginData.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2356ED-8511-45AD-B60B-E50E535AAE5D}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\models\\userfavorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2356ED-8511-45AD-B60B-E50E535AAE5D}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\apigateway\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\repository\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:repository\\ialbumrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\models\\albumservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:models\\albumservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\dbcontext\\musicmongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\albumservice\\albumservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FEA7BB7C-68DE-46B5-AB41-7F75A4366660}|AlbumService.csproj|solutionrelative:albumservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2356ED-8511-45AD-B60B-E50E535AAE5D}|..\\ApiGateway\\ApiGateway\\ApiGateway.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\apigateway\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE0350C-0421-449C-8A0D-806F991641CF}|..\\FavoriteMusicServiceTests\\FavoriteMusicServiceTests.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favoritemusicservicetests\\musicservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\exceptions\\musicnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\favoritemusicservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE0350C-0421-449C-8A0D-806F991641CF}|..\\FavoriteMusicServiceTests\\FavoriteMusicServiceTests.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favoritemusicservicetests\\favoritemusicservicetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F04053-BDE2-46CF-B1C0-2959E20EAA7D}|..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj|c:\\users\\zadmin\\downloads\\finalproject\\finalproject\\backend\\favouriteservice\\favoritemusicservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowDkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:32:01.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:01:58.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationService.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\AuthenticationService.csproj",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T12:53:52.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T12:32:50.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\appsettings.json",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T04:09:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RegisterDB/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-07T09:15:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavoriteMusicService.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.csproj",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T16:23:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Services\\ConsumerService.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Services\\ConsumerService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Services\\ConsumerService.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Services\\ConsumerService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAArwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:35:24.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:25:27.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IKafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\IKafkaProducer.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Services\\IKafkaProducer.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\IKafkaProducer.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Services\\IKafkaProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:08:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Artists [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBAlbum/True/SqlTable/dbo.Artists.sql",
+              "ToolTip": "dbo.Artists [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-08T16:35:52.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Albums [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DBAlbum/True/SqlTable/dbo.Albums.sql",
+              "ToolTip": "dbo.Albums [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-08T16:35:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PasswordMismatchException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\PasswordMismatchException.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\PasswordMismatchException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\PasswordMismatchException.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\PasswordMismatchException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:50:04.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T04:43:53.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationServiceTests\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationServiceTests\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationServiceTests\\AuthControllerTests.cs",
+              "RelativeToolTip": "..\\AuthenticationServiceTests\\AuthControllerTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:39:46.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvalidCredentialsException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\InvalidCredentialsException.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\InvalidCredentialsException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\InvalidCredentialsException.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\InvalidCredentialsException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:48:25.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Repository\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Repository\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Repository\\AuthRepo.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Repository\\AuthRepo.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAuwE4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:36:18.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:47:27.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:09:56.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseOperationException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\DatabaseOperationException.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\DatabaseOperationException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Exceptions\\DatabaseOperationException.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Exceptions\\DatabaseOperationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:49:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:34:42.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:40:08.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DuplicateAlbumException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Exceptions\\DuplicateAlbumException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\DuplicateAlbumException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Exceptions\\DuplicateAlbumException.cs",
+              "RelativeToolTip": "Exceptions\\DuplicateAlbumException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:28:26.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArtistNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Exceptions\\ArtistNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\ArtistNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Exceptions\\ArtistNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\ArtistNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:27:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AlbumsService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Services\\AlbumsService.cs",
+              "RelativeDocumentMoniker": "Services\\AlbumsService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Services\\AlbumsService.cs",
+              "RelativeToolTip": "Services\\AlbumsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:35:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Repository\\AlbumRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AlbumRepository.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Repository\\AlbumRepository.cs",
+              "RelativeToolTip": "Repository\\AlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:33:42.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Repository\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ArtistRepository.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Repository\\ArtistRepository.cs",
+              "RelativeToolTip": "Repository\\ArtistRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:33:41.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AlbumService.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+              "RelativeDocumentMoniker": "AlbumService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+              "RelativeToolTip": "AlbumService.csproj",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T12:48:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AlbumNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Exceptions\\AlbumNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\AlbumNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Exceptions\\AlbumNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\AlbumNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:25:30.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Program.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:09:44.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DateTimeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Utility\\DateTimeConverter.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Utility\\DateTimeConverter.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Utility\\DateTimeConverter.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Utility\\DateTimeConverter.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:09:24.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailBody.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Repository\\EmailBody.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Repository\\EmailBody.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Repository\\EmailBody.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Repository\\EmailBody.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:31:47.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Repository\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Repository\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Repository\\IAuthRepo.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Repository\\IAuthRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:10:21.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "KafkaSettings.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\KafkaSettings.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Services\\KafkaSettings.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\KafkaSettings.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Services\\KafkaSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:08:38.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Services\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\KafkaProducer.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Services\\KafkaProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:08:26.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\IUserService.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:08:20.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Repository\\RegisterDbContext.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Repository\\RegisterDbContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Repository\\RegisterDbContext.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Repository\\RegisterDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:07:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Services\\UserServices.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Services\\UserServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T06:21:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AuthenticationServiceTests.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationServiceTests\\AuthenticationServiceTests.csproj",
+              "RelativeDocumentMoniker": "..\\AuthenticationServiceTests\\AuthenticationServiceTests.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationServiceTests\\AuthenticationServiceTests.csproj",
+              "RelativeToolTip": "..\\AuthenticationServiceTests\\AuthenticationServiceTests.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T12:40:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Models\\Register.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Models\\Register.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:33:33.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Repository\\RegisterRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Repository\\RegisterRepository.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Repository\\RegisterRepository.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Repository\\RegisterRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwHMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:22:11.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AlbumService.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService.Tests\\AlbumService.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\AlbumService.Tests\\AlbumService.Tests.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService.Tests\\AlbumService.Tests.csproj",
+              "RelativeToolTip": "..\\AlbumService.Tests\\AlbumService.Tests.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T12:48:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Repository\\IRegisterRepository.cs",
+              "RelativeDocumentMoniker": "..\\UserRegister\\UserRegister\\Repository\\IRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\UserRegister\\UserRegister\\Repository\\IRegisterRepository.cs",
+              "RelativeToolTip": "..\\UserRegister\\UserRegister\\Repository\\IRegisterRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:20:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AlbumsServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService.Tests\\AlbumsServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\AlbumService.Tests\\AlbumsServiceTests.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService.Tests\\AlbumsServiceTests.cs",
+              "RelativeToolTip": "..\\AlbumService.Tests\\AlbumsServiceTests.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:52:26.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DateTimeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Utility\\DateTimeConverter.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Utility\\DateTimeConverter.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Utility\\DateTimeConverter.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Utility\\DateTimeConverter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:32:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Model\\Register.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\Register.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Model\\Register.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:30:24.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RecieveUser.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\RecieveUser.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Model\\RecieveUser.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\RecieveUser.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Model\\RecieveUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:30:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LoginData.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\LoginData.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Model\\LoginData.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\LoginData.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Model\\LoginData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:35:59.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Model\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\AuthDbContext.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Model\\AuthDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:36:01.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PasswordResetConfirmation.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetConfirmation.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetConfirmation.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetConfirmation.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetConfirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:35:49.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PasswordResetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetRequest.cs",
+              "RelativeDocumentMoniker": "..\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetRequest.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetRequest.cs",
+              "RelativeToolTip": "..\\AuthenticationService\\AuthenticationService\\Model\\PasswordResetRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:35:53.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwBoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:39:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AlbumServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Models\\AlbumServiceContext.cs",
+              "RelativeDocumentMoniker": "Models\\AlbumServiceContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Models\\AlbumServiceContext.cs",
+              "RelativeToolTip": "Models\\AlbumServiceContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:35.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserFavorite.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Models\\UserFavorite.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:58:11.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\Ocelot.json",
+              "ViewState": "AQIAALwAAAAAAAAAAABRwMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T04:39:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Models\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABQwAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:57:51.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IAlbumRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Repository\\IAlbumRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IAlbumRepository.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Repository\\IAlbumRepository.cs",
+              "RelativeToolTip": "Repository\\IAlbumRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:33:53.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Models\\Artist.cs",
+              "RelativeToolTip": "Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:12.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "Models\\Album.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Models\\Album.cs",
+              "RelativeToolTip": "Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:32:01.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MusicMongoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\DbContext\\MusicMongoDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:03:45.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T07:22:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\zadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\zadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-07T06:52:23.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AlbumService",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+              "RelativeDocumentMoniker": "AlbumService.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\AlbumService\\AlbumService.csproj",
+              "RelativeToolTip": "AlbumService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T07:22:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\ApiGateway\\ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T05:01:04.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "DocumentMoniker": "C:\\Users\\zadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "ToolTip": "C:\\Users\\zadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-07T07:03:28.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "MusicServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavoriteMusicServiceTests\\MusicServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\FavoriteMusicServiceTests\\MusicServiceTests.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavoriteMusicServiceTests\\MusicServiceTests.cs",
+              "RelativeToolTip": "..\\FavoriteMusicServiceTests\\MusicServiceTests.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAowIgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:09:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "MusicNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Exceptions\\MusicNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:58:21.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowD4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:20:08.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:05:47.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FavoriteMusicService.http",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.http",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.http",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.http",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\FavoriteMusicService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-07T04:37:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Services\\MusicService.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:17:04.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IMusicService.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\Services\\IMusicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:04:11.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\MongoDbSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:48:24.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FavoriteMusicServiceTests.csproj",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavoriteMusicServiceTests\\FavoriteMusicServiceTests.csproj",
+              "RelativeDocumentMoniker": "..\\FavoriteMusicServiceTests\\FavoriteMusicServiceTests.csproj",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavoriteMusicServiceTests\\FavoriteMusicServiceTests.csproj",
+              "RelativeToolTip": "..\\FavoriteMusicServiceTests\\FavoriteMusicServiceTests.csproj",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T15:12:09.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "ToolTip": "C:\\Users\\zadmin\\Downloads\\FinalProject\\FinalProject\\Backend\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "RelativeToolTip": "..\\FavouriteService\\FavoriteMusicService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T15:48:39.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "dbo.LoginData [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Logindb/True/SqlTable/dbo.LoginData.sql",
+              "ToolTip": "dbo.LoginData [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-05T17:18:10.363Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
